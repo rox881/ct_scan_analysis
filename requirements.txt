@@ -1,0 +1,12 @@
+streamlit
+numpy
+Pillow
+fpdf2
+# Add your specific deep learning framework below:
+tensorflow # Or tensorflow-cpu if you don't need GPU
+# OR
+# torch
+# torchvision
+# torchaudio
+# Add any other specific libraries used in your Colab preprocessing/postprocessing
+# e.g., opencv-python-headless, scikit-image
